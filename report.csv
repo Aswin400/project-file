@@ -1,0 +1,5 @@
+Item,Current Quantity,threshold,Priority,reorder items
+sugar,15,45,low,30
+soup,22,30,low,8
+oil,25,40,low,15
+Pen,10,12,low,2
